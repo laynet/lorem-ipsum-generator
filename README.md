@@ -15,11 +15,11 @@ Menu app that can be filtered by category made with create react app and react h
 
 ### Screenshot
 
-![Main page](./src/sliderss.png)
+![Main page](./src/loremipsumgenss.png)
 
 ### Links
 
-- Live Site URL: [Deployed with netlify](https://tubular-frangipane-16f1c6.netlify.app/)
+- Live Site URL: [Deployed with netlify](https://visionary-liger-79bd9f.netlify.app/)
 
 ## My process
 
@@ -28,11 +28,11 @@ Menu app that can be filtered by category made with create react app and react h
 - Semantic HTML5 markup
 - CSS custom properties
 - [Create React App](https://create-react-app.dev/) - JS library
-- [React-icons](https://react-icons.github.io/react-icons/)
+- [Hipster Ipsum](https://hipsum.co/) - data.js file creted with lorem-ipsum generated here
 
 ### Continued development
 
-I would like to re-do the CSS from scratch at a later date. There is no figma file for this and I'm studying for a react interview so I skipped the CSS.
+I would like to re-do the CSS from scratch at a later date. There is no figma file for this and I'm studying for a react interview so I skipped the CSS. I'd also like to do this with an API and not a data file
 
 ## Author
 
